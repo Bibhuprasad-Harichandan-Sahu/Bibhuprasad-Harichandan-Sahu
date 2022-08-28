@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bibhuprasad Harichandan Sahu</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
-<img align="right" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/thumbnails/004/491/062/small/programmer-working-concept-for-web-banner-man-work-with-code-and-programming-at-computer-creates-software-modern-person-scene-illustration-in-flat-cartoon-design-with-people-characters-vector.jpg"
+<img align="right" alt="Coding" width="280" src="https://static.vecteezy.com/system/resources/thumbnails/004/491/062/small/programmer-working-concept-for-web-banner-man-work-with-code-and-programming-at-computer-creates-software-modern-person-scene-illustration-in-flat-cartoon-design-with-people-characters-vector.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibhuprasad-harichandan-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="bibhuprasad-harichandan-sahu" /> </p>
 
 - 🌱 I’m currently learning **Fullstack with Web3.0 & Blockchain Also**
