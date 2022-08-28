@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://i.makeagif.com/media/2-27-2018/FJ5jsj.gif" width="300"/>
+</div>
 <h1 align="center">Hi 👋, I'm Bibhuprasad Harichandan Sahu</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <br/>
