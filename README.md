@@ -1,11 +1,6 @@
-<div id="header" align="center">
-  <img src="https://i.makeagif.com/media/2-27-2018/FJ5jsj.gif" width="300"/>
-</div>
 <h1 align="center">Hi 👋, I'm Bibhuprasad Harichandan Sahu</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
-<br/>
-<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqvu5fNJfyEuROsKfk8WOwJWyIYrHovAbFw&usqp=CAU"
-
+<img align="right" alt="Coding" width="300" src="https://i.makeagif.com/media/2-27-2018/FJ5jsj.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibhuprasad-harichandan-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="bibhuprasad-harichandan-sahu" /> </p>
 
 - 🌱 I’m currently learning **Fullstack with Web3.0 & Blockchain Also**
